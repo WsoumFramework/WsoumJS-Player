@@ -1,3 +1,5 @@
+# WsoumJS Player
+
    WsoumJS Player JavaScript Library v1.0.0
    https://framework.wsoum.ml/wsoumjs-player/
   
